@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sem_1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_a">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_a"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_a/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_a/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_b">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_b"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_b/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_b/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_c">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_c"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_c/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_c/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_d">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_d"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sem_1_d/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Sem_1_d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sem_1_d/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/Ejercicio_1.cpp">
+			<Option target="Sem_1_a"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/Ejercicio_2.cpp">
+			<Option target="Sem_1_b"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/Ejercicio_3.cpp">
+			<Option target="Sem_1_c"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/Tarea_Lesly.cpp">
+			<Option target="Sem_1_d"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/main.cpp">
+			<Option target="Sem_1"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

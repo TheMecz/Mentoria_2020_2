@@ -1,0 +1,7 @@
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/Sem_1.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/Sem_1_a.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/Sem_1_b.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/Sem_1_c.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/Sem_1_d.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
