@@ -1,0 +1,13 @@
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_01.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_02.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_1.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_03.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_04.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_05.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_06.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_2.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_3.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_4.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/Sem_5_5.dir
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_5/cmake-build-debug/CMakeFiles/edit_cache.dir

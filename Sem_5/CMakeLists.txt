@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.17)
+project(Sem_5)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Sem_5_01 Concepto_Funcion.cpp)
+add_executable(Sem_5_02 Plantillas.cpp)
+add_executable(Sem_5_03 Referencia.cpp)
+add_executable(Sem_5_04 Parametro_vector.cpp)
+add_executable(Sem_5_05 Parametro_matriz.cpp)
+add_executable(Sem_5_06 Recursividad.cpp)
+add_executable(Sem_5_1 Ejercicio_1.cpp)
+add_executable(Sem_5_2 Ejercicio_2.cpp)
+add_executable(Sem_5_3 Ejercicio_3.cpp)
+add_executable(Sem_5_4 Ejercicio_4.cpp)
+add_executable(Sem_5_5 Ejercicio_5.cpp)
