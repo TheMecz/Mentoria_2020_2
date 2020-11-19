@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_4/Ejercicio_1.cpp" "C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_4/cmake-build-debug/CMakeFiles/Sem_4_1.dir/Ejercicio_1.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

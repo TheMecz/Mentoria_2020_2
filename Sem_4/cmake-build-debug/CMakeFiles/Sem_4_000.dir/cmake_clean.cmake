@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Sem_4_000.dir/Concepto_Cadena.cpp.obj"
   "Sem_4_000.exe"
   "Sem_4_000.exe.manifest"
+  "Sem_4_000.lib"
   "Sem_4_000.pdb"
-  "libSem_4_000.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

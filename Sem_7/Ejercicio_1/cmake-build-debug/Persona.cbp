@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Persona"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Persona_1">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug/Persona_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 Persona_1"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Persona_1/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug/Persona_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 Persona_1/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Persona_2">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug/Persona_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 Persona_2"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Persona_2/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug/Persona_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 Persona_2/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Persona_3">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug/Persona_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 Persona_3"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Persona_3/fast">
+				<Option output="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug/Persona_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 Persona_3/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\maxpo\Desktop\Mentoria_Utec\Mentoria_2020_2\Sem_7\Ejercicio_1\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CAlumno.cpp">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CAlumno.h">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CCurso.cpp">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CCurso.h">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CProfesor.cpp">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CProfesor.h">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Funciones.h">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Main1.cpp">
+			<Option target="Persona_1"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Main2.cpp">
+			<Option target="Persona_2"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Main3.cpp">
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Tipos.h">
+			<Option target="Persona_1"/>
+			<Option target="Persona_2"/>
+			<Option target="Persona_3"/>
+		</Unit>
+		<Unit filename="C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

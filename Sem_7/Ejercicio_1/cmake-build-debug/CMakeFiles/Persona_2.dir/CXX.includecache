@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CAlumno.cpp
+CAlumno.h
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CAlumno.h
+
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CAlumno.h
+Tipos.h
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Tipos.h
+CCurso.h
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CCurso.h
+
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/CCurso.h
+Tipos.h
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Tipos.h
+
+C:/Users/maxpo/Desktop/Mentoria_Utec/Mentoria_2020_2/Sem_7/Ejercicio_1/Tipos.h
+iostream
+-
+
